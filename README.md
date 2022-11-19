@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raghu1818
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- 🌱 I want to become Data Scientist
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
